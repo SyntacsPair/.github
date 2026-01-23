@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 로고 이미지: GitHub에 업로드 후 URL 변경 필요 -->
-<img src="./assets/syntacspair-logo.png" alt="SyntacsPair Logo" width="400"/>
+<img src="../assets/syntacspair-logo.png" alt="SyntacsPair Logo" width="400"/>
 
 <br/>
 <br/>
