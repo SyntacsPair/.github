@@ -66,7 +66,7 @@
       Backend Developer
       <br/>
       <br/>
-      <a href="https://github.com/USERNAME">
+      <a href="https://github.com/kimchimanz">
         <img src="https://img.shields.io/badge/GitHub-USERNAME-181717?style=flat-square&logo=github"/>
       </a>
     </td>
@@ -159,9 +159,8 @@
     </td>
     <td>
       <ul>
-        <li>경력 내용을 입력하세요</li>
-        <li>예: OO회사 백엔드 개발자 (2023.01 ~ 현재)</li>
-        <li>예: OO 프로젝트 참여 (2022.06 ~ 2022.12)</li>
+        <li>오픈인(주) 개발자 (2022.05 ~ 현재)</li>
+        <li>[휴스타 Hustar] 경북 혁신아카데미 3기 (2021.03 ~ 2021.9)</li>
       </ul>
     </td>
   </tr>
@@ -173,7 +172,8 @@
       <ul>
         <li>서버 아키텍처 설계</li>
         <li>API 개발 및 데이터 처리</li>
-        <li>외부 서비스 연동 (TTS API 등)</li>
+        <li>외부 서비스 연동 (PLC 데이터 연계 및 각종 센서 IO 정보 )</li>
+        <li>외부 서비스 연동 (TTS 및 각종 AI 활용기술)</li>
         <li>성능 최적화 및 안정성 개선</li>
       </ul>
     </td>
